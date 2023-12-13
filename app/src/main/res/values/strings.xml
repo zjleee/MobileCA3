@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bus Management</string>
+    <string name="add_medication">Add Medication</string>
+</resources>
